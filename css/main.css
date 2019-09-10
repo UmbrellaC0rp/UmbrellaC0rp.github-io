@@ -1,7 +1,9 @@
 @import "normalize.css";
+@import "font-face.css";
 
 html, body {
     background: #272727;
     color: grey;
     font-size: 20px;
+    font-family: 'Noah';
 }

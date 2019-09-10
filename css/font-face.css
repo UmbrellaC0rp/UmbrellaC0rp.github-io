@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Noah Heavy';
+    src: url('/fonts/Noah-Heavy.eot');
+    src: url('/fonts/Noah-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Noah-Heavy.woff2') format('woff2'),
+        url('/fonts/Noah-Heavy.woff') format('woff'),
+        url('/fonts/Noah-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noah';
+    src: url('/fonts/Noah-Regular.eot');
+    src: url('/fonts/Noah-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Noah-Regular.woff2') format('woff2'),
+        url('/fonts/Noah-Regular.woff') format('woff'),
+        url('/fonts/Noah-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noah Black';
+    src: url('/fonts/Noah-Black.eot');
+    src: url('/fonts/Noah-Black.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Noah-Black.woff2') format('woff2'),
+        url('/fonts/Noah-Black.woff') format('woff'),
+        url('/fonts/Noah-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noah UltraLight';
+    src: url('/fonts/Noah-UltraLight.eot');
+    src: url('/fonts/Noah-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Noah-UltraLight.woff2') format('woff2'),
+        url('/fonts/Noah-UltraLight.woff') format('woff'),
+        url('/fonts/Noah-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noah Light';
+    src: url('/fonts/Noah-Light.eot');
+    src: url('/fonts/Noah-Light.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Noah-Light.woff2') format('woff2'),
+        url('/fonts/Noah-Light.woff') format('woff'),
+        url('/fonts/Noah-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noah Bold';
+    src: url('/fonts/Noah-Bold.eot');
+    src: url('/fonts/Noah-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Noah-Bold.woff2') format('woff2'),
+        url('/fonts/Noah-Bold.woff') format('woff'),
+        url('/fonts/Noah-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noah ExtraBold';
+    src: url('/fonts/Noah-ExtraBold.eot');
+    src: url('/fonts/Noah-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Noah-ExtraBold.woff2') format('woff2'),
+        url('/fonts/Noah-ExtraBold.woff') format('woff'),
+        url('/fonts/Noah-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noah Thin';
+    src: url('/fonts/Noah-Thin.eot');
+    src: url('/fonts/Noah-Thin.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Noah-Thin.woff2') format('woff2'),
+        url('/fonts/Noah-Thin.woff') format('woff'),
+        url('/fonts/Noah-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noah Medium';
+    src: url('/fonts/Noah-Medium.eot');
+    src: url('/fonts/Noah-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Noah-Medium.woff2') format('woff2'),
+        url('/fonts/Noah-Medium.woff') format('woff'),
+        url('/fonts/Noah-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
